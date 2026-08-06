@@ -206,6 +206,11 @@ nav a:hover{
     color:#D4AF37;
     margin-bottom:15px;
 }
+.info-card li{
+    margin-left: 300px;
+    width: 280px;
+    text-align:left
+}
 
 .price{
 
