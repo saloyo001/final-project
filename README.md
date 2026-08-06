@@ -50,7 +50,11 @@ cd final-project
 ## Contributors
 
 - Benjamin Kitema
-- (Add your teammates' names here)
+- salim basheiksh
+- maryanne wanjeri
+- Nicolette Okora
+- Emmanuel kimutai
+- Marion Biwott 
 
 ## Future Improvements
 
