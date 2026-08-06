@@ -130,9 +130,10 @@ nav a:hover{
 
     color:#000;
 }
-
-
-
+.contact-card p{
+    text-align:left;
+    margin-left: 500px;
+}
 .button{
     display:inline-block;
     background:#D4AF37;
