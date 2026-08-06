@@ -4,10 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Book a Reservation</title>
+  <script src="https://kit.fontawesome.com/ac466e79db.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
+     <img class="logo"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVrO6JEkZ-Mikx-zDjSPeCJorlRZRD5XBA&s"
+    alt="Urban Olive Logo"
+    width="100">
     <h1>Urban Olive</h1>
     <nav>
       <a href="index.html">Home</a>
@@ -16,6 +21,7 @@
       <a href="reservations.html">Book a reservation</a>
     </nav>
   </header>
+        
 
   <main class="about-page">
     <section class="reservation-section">
@@ -23,43 +29,48 @@
       <p>Book a table for lunch, dinner, or a special celebration with us.</p>
 
       <form class="reservation-form">
-        <label>
-          Full Name
-          <input type="text" name="name" placeholder="Your name" required>
-        </label>
 
-        <label>
-          Email Address
-          <input type="email" name="email" placeholder="you@example.com" required>
-        </label>
+    <label>
+        Full Name
+        <input type="text" name="name" placeholder="Your name" required>
+    </label>
 
-        <label>
-          Phone Number
-          <input type="tel" name="phone" placeholder="0712 345678" required>
-        </label>
+    <label>
+        Email Address
+        <input type="email" name="email" placeholder="you@example.com" required>
+    </label>
 
-        <label>
-          Date
-          <input type="date" name="date" required>
-        </label>
+    <label>
+        Phone Number
+        <input type="tel" name="phone" placeholder="0712 345678" required>
+    </label>
 
-        <label>
-          Time
-          <input type="time" name="time" required>
-        </label>
+    <label>
+        Date
+        <input type="date" name="date" required>
+    </label>
 
-        <label>
-          Number of Guests
-          <input type="number" name="guests" min="1" max="20" value="2" required>
-        </label>
+    <label>
+        Time
+        <input type="time" name="time" required>
+    </label>
 
-        <label>
-          Special Requests
-          <textarea name="requests" rows="4" placeholder="Any special notes?"></textarea>
-        </label>
+    <label>
+        Number of Guests
+        <input type="number" name="guests" min="1" max="20" value="2" required>
+    </label>
 
-        <button type="submit" class="button">Book Now</button>
-      </form>
+    <label>
+        Special Requests
+        <textarea name="requests" rows="4"></textarea>
+    </label>
+
+    <button type="submit" class="button">
+        Book Now
+    </button>
+
+</form>
+<div id="message"></div>
     </section>
 
     <aside class="contact-card">
@@ -72,7 +83,12 @@
   </main>
 
   <footer>
+    
     <p>Urban Olive • Fresh flavors • Great memories</p>
+   <button class="topbutton">
+    ↑ Back to Top
+</button>
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
