@@ -50,8 +50,8 @@ cd final-project
 ## Contributors
 
 - Benjamin Kitema
-- salim basheiksh
-- maryanne wanjeri
+- Salim basheiksh
+- Maryanne wanjeri
 - Nicolette Okora
 - Emmanuel kimutai
 - Marion Biwott 
