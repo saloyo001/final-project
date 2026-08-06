@@ -93,10 +93,9 @@ if (topButton) {
 
 }
 let offersBtn = document.getElementById("offersBtn");
-
 let offers = document.getElementById("offers");
 
-if (offersBtn && offers) {
+if (offersBtn) {
 
     offersBtn.onclick = function () {
 
@@ -104,13 +103,11 @@ if (offersBtn && offers) {
 
             offers.style.display = "block";
 
-            offersBtn.innerHTML = "Hide Today's Offers";
+        }
 
-        } else {
+        else {
 
             offers.style.display = "none";
-
-            offersBtn.innerHTML = "View Today's Offers";
 
         }
 

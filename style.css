@@ -344,3 +344,62 @@ nav{
     gap:10px;
 }
 }
+#offersBtn{
+
+    background-color: #8B4513;
+
+    color: white;
+
+    border: none;
+
+    padding: 12px 24px;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    margin: 20px 0;
+
+    transition: 0.3s;
+}
+
+#offersBtn:hover{
+
+    background-color: #a65d2a;
+
+    transform: scale(1.05);
+
+}
+#offers{
+
+    display: none;
+
+    background: #fff8f0;
+
+    border: 2px solid #8B4513;
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    margin-top: 20px;
+
+}
+
+#offers h2{
+
+    color: #8B4513;
+
+    text-align: center;
+
+}
+
+#offers section{
+
+    margin-bottom: 20px;
+
+}
