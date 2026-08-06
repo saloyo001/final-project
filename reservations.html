@@ -29,43 +29,48 @@
       <p>Book a table for lunch, dinner, or a special celebration with us.</p>
 
       <form class="reservation-form">
-        <label>
-          Full Name
-          <input type="text" name="name" placeholder="Your name" required>
-        </label>
 
-        <label>
-          Email Address
-          <input type="email" name="email" placeholder="you@example.com" required>
-        </label>
+    <label>
+        Full Name
+        <input type="text" name="name" placeholder="Your name" required>
+    </label>
 
-        <label>
-          Phone Number
-          <input type="tel" name="phone" placeholder="0712 345678" required>
-        </label>
+    <label>
+        Email Address
+        <input type="email" name="email" placeholder="you@example.com" required>
+    </label>
 
-        <label>
-          Date
-          <input type="date" name="date" required>
-        </label>
+    <label>
+        Phone Number
+        <input type="tel" name="phone" placeholder="0712 345678" required>
+    </label>
 
-        <label>
-          Time
-          <input type="time" name="time" required>
-        </label>
+    <label>
+        Date
+        <input type="date" name="date" required>
+    </label>
 
-        <label>
-          Number of Guests
-          <input type="number" name="guests" min="1" max="20" value="2" required>
-        </label>
+    <label>
+        Time
+        <input type="time" name="time" required>
+    </label>
 
-        <label>
-          Special Requests
-          <textarea name="requests" rows="4" placeholder="Any special notes?"></textarea>
-        </label>
+    <label>
+        Number of Guests
+        <input type="number" name="guests" min="1" max="20" value="2" required>
+    </label>
 
-        <button type="submit" class="button">Book Now</button>
-      </form>
+    <label>
+        Special Requests
+        <textarea name="requests" rows="4"></textarea>
+    </label>
+
+    <button type="submit" class="button">
+        Book Now
+    </button>
+
+</form>
+<div id="message"></div>
     </section>
 
     <aside class="contact-card">
@@ -78,7 +83,12 @@
   </main>
 
   <footer>
+    
     <p>Urban Olive • Fresh flavors • Great memories</p>
+   <button class="topbutton">
+    ↑ Back to Top
+</button>
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
