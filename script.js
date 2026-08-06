@@ -92,3 +92,28 @@ if (topButton) {
     };
 
 }
+let offersBtn = document.getElementById("offersBtn");
+
+let offers = document.getElementById("offers");
+
+if (offersBtn && offers) {
+
+    offersBtn.onclick = function () {
+
+        if (offers.style.display == "none") {
+
+            offers.style.display = "block";
+
+            offersBtn.innerHTML = "Hide Today's Offers";
+
+        } else {
+
+            offers.style.display = "none";
+
+            offersBtn.innerHTML = "View Today's Offers";
+
+        }
+
+    };
+
+}
