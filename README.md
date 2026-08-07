@@ -54,7 +54,7 @@ cd final-project
 - Maryanne wanjeri
 - Nicolette Okora
 - Emmanuel kimutai
-- Marion Biwott .
+- Marion Biwott 
 
 ## Future Improvements
 
