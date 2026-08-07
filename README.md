@@ -48,7 +48,7 @@ final-project/
 
 You can view the live version of the project here:
 
-🔗 
+https://saloyo001.github.io/final-project/
 
 
 
