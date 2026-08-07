@@ -130,9 +130,10 @@ nav a:hover{
 
     color:#000;
 }
-
-
-
+.contact-card p{
+    text-align:left;
+    margin-left: 500px;
+}
 .button{
     display:inline-block;
     background:#D4AF37;
@@ -181,8 +182,11 @@ nav a:hover{
     grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
     gap:30px;
     margin-top:40px;
+    margin-bottom: 30px;
 }
-
+.card-grid img{
+    margin-bottom: 5px;
+}
 .card,
 .info-card,
 .offer-popup,
@@ -205,6 +209,15 @@ nav a:hover{
     color:#D4AF37;
     margin-bottom:15px;
 }
+.space{
+    margin-bottom:20px;
+}
+.info-card li{
+    margin-left: 420px;
+    width: 280px;
+    text-align:left
+
+}
 
 .price{
 
@@ -213,8 +226,9 @@ nav a:hover{
     font-size:1.2rem;
     margin-top:10px;
 }
-
-
+.amenity-card{
+    margin-bottom: 25px;
+}
 .gallery-grid{
 
     display:flex;
