@@ -65,7 +65,24 @@ https://saloyo001.github.io/final-project/
 - Maryanne wanjeri
 - Nicolette Okora
 - Emmanuel kimutai
-- Marion Biwott 
+- Marion Biwott
+  ## pseudo
+  START
+
+Display the homepage.
+
+Allow the user to:
+- View the menu
+- View special offers
+- Make a reservation
+
+IF the reservation form is complete
+    Confirm the reservation
+ELSE
+    Show an error message
+END IF
+
+END
 
 ## Future Improvements
 
