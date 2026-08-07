@@ -1,4 +1,4 @@
-# Final Project .
+# Final Project 
 
 ## Overview
 This project is a responsive website built using HTML, CSS, and JavaScript. It demonstrates modern web development concepts such as responsive layouts, navigation, interactive elements, and organized project structure.
@@ -62,10 +62,10 @@ https://saloyo001.github.io/final-project/
 ## Contributors
 
 - Benjamin Kitema
-- Salim basheiksh
-- Maryanne wanjeri
+- Salim Basheiksh
+- Maryanne Wanjeri
 - Nicolette Okora
-- Emmanuel kimutai
+- Emmanuel Kimutai
 - Marion Biwott
   ## pseudo
   START
@@ -87,10 +87,10 @@ END
 
 ## Future Improvements
 
-- Add more animations
-- Improve accessibility
-- Optimize website performance
-- Add additional interactive features
+- Add more animations.
+- Improve accessibility.
+- Optimize website performance.
+- Add additional interactive features.
 
 ## License
 
