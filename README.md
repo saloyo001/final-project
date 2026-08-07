@@ -26,18 +26,12 @@ final-project/
 │── README.md        # Project documentation
 
 
-## Installation
 
-1. Clone the repository:
+## Demo
 
-bash
-git clone https://github.com/saloyo001/final-project.git
+You can view the live version of the project here:
 
-
-2. Navigate to the project folder:
-
-   bash
-cd final-project
+🔗 github.com/saloyo001/final-project.git
 
 
 3. Open `index.html` in your browser.
