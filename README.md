@@ -1,4 +1,4 @@
-# Final Project
+# Final Project .
 
 ## Overview
 This project is a responsive website built using HTML, CSS, and JavaScript. It demonstrates modern web development concepts such as responsive layouts, navigation, interactive elements, and organized project structure.
