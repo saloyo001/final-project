@@ -25,16 +25,33 @@ final-project/
 │── index.html       # Home page
 │── README.md        # Project documentation
 
+## Installation
 
+1. Clone the repository:
+      bash
+   git clone https://github.com/saloyo001/final-project.git
+   
+
+2. Navigate to the project folder:
+      bash
+   cd final-project
+   
+
+3. Open the project in Visual Studio Code:
+      bash
+   code .
+   
+
+4. Open `index.html` in your browser, or use the Live Server extension in VS Code to run the project locally.
 
 ## Demo
 
 You can view the live version of the project here:
 
-🔗 github.com/saloyo001/final-project.git
+🔗 
 
 
-3. Open `index.html` in your browser.
+
 
 ## Usage
 
