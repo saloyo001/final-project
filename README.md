@@ -50,6 +50,7 @@ You can view the live version of the project here:
 
 https://saloyo001.github.io/final-project/
 
+<img width="1437" height="708" alt="Screenshot 2026-08-07 at 10 24 38" src="https://github.com/user-attachments/assets/a0b8f4c1-4e72-42dd-855f-430d2b922d79" />
 
 
 
